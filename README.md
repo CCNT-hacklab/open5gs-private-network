@@ -1,4 +1,4 @@
-# Open5GS + USRP 5G Network Simulation
+# Open5GS + USRP Network Simulation
 
 Project ini dipakai buat simulasi jaringan 5G pakai **Open5GS sebagai core network** plus perangkat radio / simulator (UERANSIM atau USRP) buat testing UE dan RAN. Cocok buat belajar 5G core, network testing, sampai eksperimen performa jaringan.
 
